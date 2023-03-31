@@ -21,7 +21,7 @@
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
     
-    <label for="Hello World"><b>Hello World, Stay happy</b></label>
+    <label for="Hello World"><b>Hello World, Stay happy :) :) </b></label>
     <br>
     
     <label for="psw-repeat"><b>Repeat Password</b></label>
