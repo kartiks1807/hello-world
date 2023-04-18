@@ -13,7 +13,7 @@
     <input type="text" placeholder="Enter Moible Number" name="mobile" id="mobile" required>
     <br>
 
-    <label for="email"><b>Enter Email Address</b></label>
+    <label for="email"><b>Enter Email </b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
@@ -21,7 +21,7 @@
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
     
-    <label for="Hello World"><b>Hello World, Stay happy :) :) </b></label>
+    <label for="Hello World"><b>Its me Your Friend :) :) </b></label>
     <br>
     
     <label for="psw-repeat"><b>Repeat Password</b></label>
